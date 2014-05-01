@@ -18,7 +18,7 @@
  ****************************************************************************************/
 
 #include "application.h"
-#include "adxl345.h"
+#include "spark-lib-adxl345.h"
 #include "math.h"
 
 #define DEVICE (0x53)    // ADXL345 device address
