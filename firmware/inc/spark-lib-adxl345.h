@@ -15,8 +15,8 @@
  ****************************************************************************************/
  
  
- #ifndef ADXL345_h
- #define ADXL345_h
+ #ifndef spark-lib-adxl345_h
+ #define spark-lib-adxl345_h
 
  #include "application.h"   
  #include "binary.h"        
