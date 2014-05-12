@@ -1,6 +1,6 @@
 {
   "name": "sparks-lib-adxl345",
-  "a": "Kenneth Lim <kennethlimcp@gmail.com>",
+  "author": "Kenneth Lim <kennethlimcp@gmail.com>",
   "license": "GNU",
   "version": "0.0.3"
 }
