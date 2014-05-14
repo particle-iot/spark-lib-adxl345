@@ -1,6 +1,6 @@
 {
-  "name": "adxl345-library",
+  "name": "spark-lib-adxl345",
   "author": "Kenneth Lim <kennethlimcp@gmail.com>",
   "license": "GNU",
-  "version": "0.0.1"
+  "version": "0.0.3"
 }
