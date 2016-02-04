@@ -23,7 +23,7 @@
 // Digital 0   -  SDA
 // Digital 1   -  SCL
 
-#include "ADXL345.h"
+#include "ADXL345/ADXL345.h"
 
 
 ADXL345 accel;
